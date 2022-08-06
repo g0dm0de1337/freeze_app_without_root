@@ -14,7 +14,7 @@ go to termux an follow the commands:
 
 
 
->•  cd /storage/shared/HerunterladenHerunterladen 
+>•  cd /storage/shared/Download
 
 
 
@@ -22,5 +22,5 @@ go to termux an follow the commands:
 
 >•  sh start.sh
 
-letzte Zeile von termux ist "success"
+ last line from termux is "success"
 start icebox app
