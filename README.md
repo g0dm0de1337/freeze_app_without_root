@@ -8,7 +8,7 @@ install icebox.apk
 go to termux an follow the commands:
 
 
->•  termux-Setup-Speicher
+>•  termux-setup-storage
 
 
 
