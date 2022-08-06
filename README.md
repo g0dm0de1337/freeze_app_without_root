@@ -8,9 +8,9 @@ install icebox.apk
 go to termux an follow the commands:
 
 
-• termux-Setup-Speicher
-• cd /storage/shared/HerunterladenHerunterladen 
-• sh start.sh
+>• termux-Setup-Speicher
+>• cd /storage/shared/HerunterladenHerunterladen 
+>• sh start.sh
 
 letzte Zeile von termux ist "success"
 start icebox app
